@@ -1,0 +1,3 @@
+# Modelo-SIR-contagios-UV
+Modelo SIR contagios vs rayos UV en España
+Este articulo esta constituido con informacón respecto a la reciente pandemia de coronavirus (COVID-19) está teniendo un efecto importante en muchos países, que debe enfrentarse al más alto grado de escrutinio. Una información importante es si la tasa de crecimiento de los casos confirmados entre la población podría disminuir con el aumento de la temperatura. Para lo cual se extrajeron muestras especificas y  se aplico metodo SIR y asi comparar la información obtenida con los antecendentes que se tienen y ver su indice de crecimiento segun la temperatura.
